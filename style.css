@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.footer{
+    background-color: grey;
+    padding: 35px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.footer-logo{
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom:30px;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: 10px;
+} 
+.footer-text{
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}   
+.items{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.items li{
+   list-style: none;
+}
+.items a{
+    list-style: none;
+    color: white;
+    margin: 10px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.items a:hover{
+    color: black;
+}
+.items-2{
+    display: flex;
+    justify-content: center;
+}
+.items-2 li{
+    list-style: none;
+ }
+ .items-2 a{
+     list-style: none;
+     color: white;
+     margin: 60px;
+     list-style-type: none;
+     text-decoration: none;
+ }
+ .items-2 a:hover{
+    color: rgb(212, 250, 0);
+}
+ .items-3{
+    display: flex;
+    justify-content: center;
+}
+.items-3 li{
+    list-style: none;
+ }
+ .items-3 a{
+     list-style: none;
+     color: white;
+     margin: 60px;
+     list-style-type: none;
+     text-decoration: none;
+ }
+ .items-3 a:hover{
+    color: rgb(255, 166, 0);
+}
+ .items-4{
+    display: flex;
+    justify-content: center;
+}
+.items-4 li{
+    list-style: none;
+ }
+ .items-4 a{
+     list-style: none;
+     color: white;
+     margin: 60px;
+     list-style-type: none;
+     text-decoration: none;
+ }
+ .items-4 a:hover{
+    color: rgb(6, 255, 172);
+}
+ .para{
+     letter-spacing: 2px;
+     padding: 10px 10px;
+     text-align: center;
+     margin-top: 30px;
+     margin-bottom: -10px;
+     color: white;
+ }
